@@ -1,0 +1,8 @@
+# ignore env
+env
+
+# ignore Mac specific file
+.DS_Store
+
+# ignore data files
+Data
